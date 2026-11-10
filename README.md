@@ -9,6 +9,7 @@ You don't start or stop a timer: it just runs.
 </p>
 
 [**⬇ Download the installer**](https://github.com/ajayboopalan/focus-blocks/releases/latest) ·
+[☕ Buy me a coffee](https://buymeacoffee.com/ajayboopalan) ·
 [How it works](#how-it-works) · [Install](#install) · [Use cases](#use-cases) · [FAQ](#faq) ·
 [Contributing](#contributing) · [Support](#support-the-project)
 
@@ -182,8 +183,7 @@ If Focus Blocks helps you, a ⭐ on the repo helps others find it.
 Focus Blocks is free and open source. If it saves you time and you'd like to say thanks,
 you can buy me a coffee ☕. It's appreciated, never expected.
 
-<!-- TODO: replace with your real link -->
-**☕ Buy me a coffee:** *https://buymeacoffee.com/ajayboopalan*
+<a href="https://buymeacoffee.com/ajayboopalan"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 
 ## License
 
