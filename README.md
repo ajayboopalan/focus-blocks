@@ -5,8 +5,7 @@ in blocks, tells you when to take a break, and shows a year of your focus days a
 You don't start or stop a timer: it just runs.
 
 <p align="center">
-  <img src="docs/screenshots/pill-focusing.png" alt="The Focus Blocks pill, expanded: 18:40 left in block 4, 3 of 8 blocks done today" width="360">
-  <img src="docs/screenshots/pill-ready.png" alt="After a break the pill opens and asks: Ready? with Ready and 5 more min buttons" width="360">
+  <img src="docs/demo.gif" alt="Demo: the pill counts down a block, asks to take a break, counts the break, asks Ready?, then shows the year-long heatmap" width="760">
 </p>
 
 [**⬇ Download the installer**](https://github.com/ajayboopalan/focus-blocks/releases/latest) ·
