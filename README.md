@@ -184,7 +184,7 @@ Focus Blocks is free and open source. If it saves you time and you'd like to say
 you can buy me a coffee ☕. It's appreciated, never expected.
 
 <!-- TODO: replace with your real link -->
-**☕ Buy me a coffee:** *link coming soon*
+**☕ Buy me a coffee:** *https://buymeacoffee.com/ajayboopalan*
 
 ## License
 
